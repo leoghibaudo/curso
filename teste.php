@@ -1,4 +1,5 @@
 
 <?="teste";
+echo:"olá mundo";
 ?>
 
