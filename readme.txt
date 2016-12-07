@@ -6,6 +6,9 @@
 ** comando: touch readme.txt
 **Edição do conteúdo do arquivo
 ** comando: vim readme.txt
+**Para adicionaro o arquivo ao controle de versão
+** Comando git add readme.txt
+**Comitando: git commit -m(mensagem)
 **Para o apontamento do diretorio no GitHub
 ** comando git remote add origin https://github.com/leoghibaudo/curso.git
 ** Criar o arquivo de configuação
